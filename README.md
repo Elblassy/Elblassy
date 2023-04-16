@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elblassy" alt="elblassy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://elblassy.github.io](https://elblassy.github.io)
+- 👨‍💻 All of my projects are available at [https://elblasy.app](https://elblasy.app)
 
 - 💬 Ask me about **Android and flutter**
 
