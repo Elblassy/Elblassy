@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://elblasy.app](https://elblasy.app)
 
-- 💬 Ask me about **Android and flutter**
+- 💬 Ask me about **Android, Flutter & Odoo**
 
-- 📫 How to reach me **m.elblasy14@gmail.com**
+- 📫 How to reach me **Muhammad@elblasy.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
